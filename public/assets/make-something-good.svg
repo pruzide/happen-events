@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img" aria-label="MAKE SOMETHING GOOD event poster">
+<defs><linearGradient id="b" x1="0" x2=".9" y1="0" y2="1"><stop stop-color="#f5bb91"/><stop offset="1" stop-color="#facf8e"/></linearGradient><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".66" numOctaves="2" stitchTiles="stitch" result="n"/><feColorMatrix in="n" type="saturate" values="0"/></filter></defs>
+<rect width="400" height="500" fill="url(#b)"/>
+<path d="M90 285q107-65 215-8l-27 141-169-5Z" fill="#f8e0bf" stroke="#554161" stroke-width="3"/><path d="m133 271 45 73 55-60 52 75" stroke="#f16d6f" stroke-width="15" fill="none" stroke-linecap="round"/><circle cx="204" cy="374" r="32" fill="#acaaed"/><path d="M40 344q48-100 93 4" stroke="#529f89" stroke-width="24" fill="none" stroke-linecap="round"/><path d="M293 239 335 286 370 236" stroke="#554161" stroke-width="19" fill="none" stroke-linecap="round"/>
+<rect width="400" height="500" filter="url(#grain)" opacity=".055"/>
+<text x="33" y="29" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="800" letter-spacing="3" fill="#342e40">HAPPEN PRESENTS  ✳</text>
+<text x="33" y="82" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#342e40">MAKE</text><text x="33" y="135" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#342e40">SOMETHING</text><text x="33" y="188" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#342e40">GOOD</text>
+<rect x="31" y="437" width="338" height="1" fill="#342e40" opacity=".55"/>
+<text x="32" y="459" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#342e40">19 DEC 2026 · PUNE</text>
+<text x="32" y="479" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.5" fill="#342e40" opacity=".88">WORKSHOP · HANDS-ON</text>
+<circle cx="357" cy="465" r="17" fill="#342e40"/><text x="348" y="472" font-family="Arial" font-size="24" fill="#f5bb91">↗</text>
+</svg>

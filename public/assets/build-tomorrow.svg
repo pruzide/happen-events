@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img" aria-label="BUILD TOMORROW event poster">
+<defs><linearGradient id="b" x1="0" x2=".9" y1="0" y2="1"><stop stop-color="#122e43"/><stop offset="1" stop-color="#147cb4"/></linearGradient><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".66" numOctaves="2" stitchTiles="stitch" result="n"/><feColorMatrix in="n" type="saturate" values="0"/></filter></defs>
+<rect width="400" height="500" fill="url(#b)"/>
+<g stroke="#98d8d6" opacity=".4" stroke-width="1"><path d="M20 190V430"/><path d="M46 190V430"/><path d="M72 190V430"/><path d="M98 190V430"/><path d="M124 190V430"/><path d="M150 190V430"/><path d="M176 190V430"/><path d="M202 190V430"/><path d="M228 190V430"/><path d="M254 190V430"/><path d="M280 190V430"/><path d="M306 190V430"/><path d="M332 190V430"/><path d="M358 190V430"/><path d="M384 190V430"/><path d="M410 190V430"/><path d="M20 197H380"/><path d="M20 223H380"/><path d="M20 249H380"/><path d="M20 275H380"/><path d="M20 301H380"/><path d="M20 327H380"/><path d="M20 353H380"/><path d="M20 379H380"/><path d="M20 405H380"/></g><path d="M90 350 199 245 320 306 216 411Z" fill="#a7f26e"/><path d="M199 245V148l121 59v99Z" fill="#72c9ff"/><path d="M90 350V259l109-111v97Z" fill="#dd9aff"/><circle cx="312" cy="363" r="55" fill="#eeb85e" stroke="#12344b" stroke-width="10"/><path d="m300 341 28 18-28 18" stroke="#12344b" fill="none" stroke-width="9"/>
+<rect width="400" height="500" filter="url(#grain)" opacity=".055"/>
+<text x="33" y="29" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="800" letter-spacing="3" fill="#def9b1">HAPPEN PRESENTS  ✳</text>
+<text x="33" y="82" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#def9b1">BUILD</text><text x="33" y="135" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#def9b1">TOMORROW</text>
+<rect x="31" y="437" width="338" height="1" fill="#def9b1" opacity=".55"/>
+<text x="32" y="459" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#def9b1">28 NOV 2026 · HYDERABAD</text>
+<text x="32" y="479" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.5" fill="#def9b1" opacity=".88">TECH · IDEAS</text>
+<circle cx="357" cy="465" r="17" fill="#def9b1"/><text x="348" y="472" font-family="Arial" font-size="24" fill="#122e43">↗</text>
+</svg>

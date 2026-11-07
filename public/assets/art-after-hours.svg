@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img" aria-label="ART AFTER HOURS event poster">
+<defs><linearGradient id="b" x1="0" x2=".9" y1="0" y2="1"><stop stop-color="#eea99a"/><stop offset="1" stop-color="#f2ddbc"/></linearGradient><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".66" numOctaves="2" stitchTiles="stitch" result="n"/><feColorMatrix in="n" type="saturate" values="0"/></filter></defs>
+<rect width="400" height="500" fill="url(#b)"/>
+<circle cx="283" cy="315" r="145" fill="#e9f0b1"/><path d="M143 222c55-18 112 37 87 83-16 32-55 18-50 50 6 44-17 65-52 45-50-28-69-161 15-178Z" fill="#654aab"/><path d="M270 220c85 8 93 54 79 104-13 47-58 75-83 56-29-21-3-46-22-71-13-18-23-93 26-89Z" fill="#e36c6d"/><circle cx="302" cy="342" r="28" fill="#fcdb77"/><path d="M100 312c-35 28-45 61-36 98" fill="none" stroke="#324457" stroke-width="19" stroke-linecap="round"/><path d="M63 419q137-62 283-8" stroke="#302337" stroke-width="4" stroke-dasharray="5 9" fill="none"/>
+<rect width="400" height="500" filter="url(#grain)" opacity=".055"/>
+<text x="33" y="29" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="800" letter-spacing="3" fill="#302337">HAPPEN PRESENTS  ✳</text>
+<text x="33" y="82" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#302337">ART AFTER</text><text x="33" y="135" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#302337">HOURS</text>
+<rect x="31" y="437" width="338" height="1" fill="#302337" opacity=".55"/>
+<text x="32" y="459" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#302337">05 DEC 2026 · KOLKATA</text>
+<text x="32" y="479" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.5" fill="#302337" opacity=".88">ART · CULTURE</text>
+<circle cx="357" cy="465" r="17" fill="#302337"/><text x="348" y="472" font-family="Arial" font-size="24" fill="#eea99a">↗</text>
+</svg>

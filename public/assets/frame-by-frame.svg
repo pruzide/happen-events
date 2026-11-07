@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img" aria-label="FRAME BY FRAME event poster">
+<defs><linearGradient id="b" x1="0" x2=".9" y1="0" y2="1"><stop stop-color="#fdcf57"/><stop offset="1" stop-color="#ffeb93"/></linearGradient><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".66" numOctaves="2" stitchTiles="stitch" result="n"/><feColorMatrix in="n" type="saturate" values="0"/></filter></defs>
+<rect width="400" height="500" fill="url(#b)"/>
+<rect x="78" y="206" width="244" height="216" rx="8" fill="#2f2e40"/><rect x="88" y="232" width="18" height="18" fill="#fbdb89"/><rect x="293" y="232" width="18" height="18" fill="#fbdb89"/><rect x="88" y="274" width="18" height="18" fill="#fbdb89"/><rect x="293" y="274" width="18" height="18" fill="#fbdb89"/><rect x="88" y="316" width="18" height="18" fill="#fbdb89"/><rect x="293" y="316" width="18" height="18" fill="#fbdb89"/><rect x="88" y="358" width="18" height="18" fill="#fbdb89"/><rect x="293" y="358" width="18" height="18" fill="#fbdb89"/><rect x="115" y="225" width="170" height="178" rx="5" fill="#e78f82"/><circle cx="200" cy="307" r="70" fill="#8c8bd4"/><path d="m187 268 58 39-58 39Z" fill="#fff3bc"/><path d="M78 231 330 200" stroke="#2f2e40" stroke-width="17"/>
+<rect width="400" height="500" filter="url(#grain)" opacity=".055"/>
+<text x="33" y="29" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="800" letter-spacing="3" fill="#25232a">HAPPEN PRESENTS  ✳</text>
+<text x="33" y="82" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#25232a">FRAME BY</text><text x="33" y="135" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#25232a">FRAME</text>
+<rect x="31" y="437" width="338" height="1" fill="#25232a" opacity=".55"/>
+<text x="32" y="459" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#25232a">16 JAN 2027 · NEW DELHI</text>
+<text x="32" y="479" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.5" fill="#25232a" opacity=".88">FILM · CULTURE</text>
+<circle cx="357" cy="465" r="17" fill="#25232a"/><text x="348" y="472" font-family="Arial" font-size="24" fill="#fdcf57">↗</text>
+</svg>

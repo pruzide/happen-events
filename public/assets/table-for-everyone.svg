@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img" aria-label="TABLE FOR EVERYONE event poster">
+<defs><linearGradient id="b" x1="0" x2=".9" y1="0" y2="1"><stop stop-color="#9b423b"/><stop offset="1" stop-color="#ee8d65"/></linearGradient><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".66" numOctaves="2" stitchTiles="stitch" result="n"/><feColorMatrix in="n" type="saturate" values="0"/></filter></defs>
+<rect width="400" height="500" fill="url(#b)"/>
+<circle cx="222" cy="332" r="151" fill="#f6caa2"/><circle cx="222" cy="332" r="110" fill="#fae9ca"/><circle cx="222" cy="332" r="69" fill="#db8a76"/><circle cx="222" cy="332" r="43" fill="#f0bb5e"/><path d="M66 206V426M48 206V280q18 30 36 0v-74M337 211v218" stroke="#fff0d8" stroke-width="12" fill="none" stroke-linecap="round"/><path d="M332 210q-35 33 0 100" fill="none" stroke="#fff0d8" stroke-width="18"/><path d="M167 303q65-38 111 19" fill="none" stroke="#6b773c" stroke-width="18" stroke-linecap="round"/>
+<rect width="400" height="500" filter="url(#grain)" opacity=".055"/>
+<text x="33" y="29" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="800" letter-spacing="3" fill="#ffebbd">HAPPEN PRESENTS  ✳</text>
+<text x="33" y="82" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#ffebbd">TABLE FOR</text><text x="33" y="135" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#ffebbd">EVERYONE</text>
+<rect x="31" y="437" width="338" height="1" fill="#ffebbd" opacity=".55"/>
+<text x="32" y="459" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#ffebbd">12 DEC 2026 · MUMBAI</text>
+<text x="32" y="479" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.5" fill="#ffebbd" opacity=".88">FOOD · COMMUNITY</text>
+<circle cx="357" cy="465" r="17" fill="#ffebbd"/><text x="348" y="472" font-family="Arial" font-size="24" fill="#9b423b">↗</text>
+</svg>

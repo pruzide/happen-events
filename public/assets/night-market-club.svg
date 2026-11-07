@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img" aria-label="NIGHT MARKET CLUB event poster">
+<defs><linearGradient id="b" x1="0" x2=".9" y1="0" y2="1"><stop stop-color="#211f5d"/><stop offset="1" stop-color="#4e2f87"/></linearGradient><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".66" numOctaves="2" stitchTiles="stitch" result="n"/><feColorMatrix in="n" type="saturate" values="0"/></filter></defs>
+<rect width="400" height="500" fill="url(#b)"/>
+<path d="M0 196q100-23 200 0t200 0" stroke="#f8db8a" stroke-width="5" fill="none" stroke-dasharray="4 12"/><path d="M95 197v40" stroke="#fbe4aa" stroke-width="3"/><ellipse cx="95" cy="247" rx="28" ry="36" fill="#d9519b"/><path d="M75 245h40" stroke="#fceab9" stroke-width="2" opacity=".5"/><path d="M210 197v57" stroke="#fbe4aa" stroke-width="3"/><ellipse cx="210" cy="264" rx="33" ry="39" fill="#f8b95d"/><path d="M190 262h40" stroke="#fceab9" stroke-width="2" opacity=".5"/><path d="M327 197v74" stroke="#fbe4aa" stroke-width="3"/><ellipse cx="327" cy="281" rx="38" ry="42" fill="#7bddca"/><path d="M307 279h40" stroke="#fceab9" stroke-width="2" opacity=".5"/><path d="M0 402l65-49 65 49 70-52 70 52 65-49 65 49v40H0Z" fill="#13213c"/><circle cx="47" cy="295" r="10" fill="#f9b6bf"/><circle cx="357" cy="329" r="12" fill="#f2d48a"/>
+<rect width="400" height="500" filter="url(#grain)" opacity=".055"/>
+<text x="33" y="29" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="800" letter-spacing="3" fill="#f7ecdd">HAPPEN PRESENTS  ✳</text>
+<text x="33" y="82" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#f7ecdd">NIGHT</text><text x="33" y="135" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#f7ecdd">MARKET</text><text x="33" y="188" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="900" letter-spacing="-3" fill="#f7ecdd">CLUB</text>
+<rect x="31" y="437" width="338" height="1" fill="#f7ecdd" opacity=".55"/>
+<text x="32" y="459" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#f7ecdd">23 JAN 2027 · JAIPUR</text>
+<text x="32" y="479" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.5" fill="#f7ecdd" opacity=".88">FOOD · NIGHTLIFE</text>
+<circle cx="357" cy="465" r="17" fill="#f7ecdd"/><text x="348" y="472" font-family="Arial" font-size="24" fill="#211f5d">↗</text>
+</svg>

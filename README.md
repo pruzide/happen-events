@@ -77,20 +77,3 @@ The test suite uses Node's built-in test runner and a real in-memory SQLite data
 
 `npm run local:status` reads the local database only. Never publish `.local/`, `.dev.vars`, `.env`, secret keys or participant exports.
 
-## 4. Free public deployment: Cloudflare Workers + D1
-
-This is one project, one deployment, one free SQLite-compatible hosted database, with no separately managed backend server. Free tiers have usage limits, and require creating your own free Cloudflare account. A **`*.workers.dev` address is free**; registering a custom `.com` domain is not.
-
-### A. Install Wrangler and sign in
-
-```bash
-npm install
-npx wrangler login
-```
-
-`npm install` adds the Cloudflare CLI as a **development dependency** (not delivered to your site's visitors). Keep the generated `package-lock.json` under version control.
-
-
-```
-
-**Status of this deliverable:** Local API and real SQLite writes were tested, including valid registration, duplicate rejection, injection attempt and origin rejection; 8 SQLite-backed automated checks passed. A full browser interaction pass and a real Cloudflare deployment could **not** be performed from the current environment. Do those final two verification steps on your machine and Cloudflare account before submitting.

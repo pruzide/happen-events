@@ -17,14 +17,6 @@ A lightweight, responsive event-discovery application for the K Explore web desi
 - No cancellation or deletion is implied by the browser-only My events display. Removing browser data does not affect backend registrations.
 - Privacy notice, anonymous hashed IP rate limiting, production Turnstile verification and automatic retention cleanup.
 
-## Visitor experience and implementation boundaries
-
-- After registration, visitors see **You're on the list!**, an event summary, and two simple actions: **My events** or **Keep exploring**.
-- **My events** shows the event poster, name, date, venue and a **Registered** label. It never shows internal database identifiers or local-storage controls.
-- The server still assigns an internal confirmation ID, but the interface does not display it or save it in browser storage. Browser storage contains only event IDs and dates. Previous local references are migrated into this reduced format automatically.
-- **My events is a browser-only convenience view**, not a user account or a live registration lookup. Registrations from another device will not appear; clearing site data affects the display, **not** the database record. There is no misleading "delete" or "cancel" button without an actual authenticated cancellation endpoint.
-- This remains a **fictional-event demo**; the success view keeps a short disclosure that no real ticket is issued.
-
 ## 2. Architecture
 
 ```text
